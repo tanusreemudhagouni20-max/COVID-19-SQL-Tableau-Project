@@ -90,6 +90,10 @@ The dashboard highlights infection rates, death counts, and global pandemic tren
 This project demonstrates how SQL and Tableau can be used together to analyze large datasets and generate meaningful insights.
 SQL Server Management Studio was used for data cleaning, transformation, and analytical queries to calculate key pandemic metrics. The results were then visualized in Tableau through an interactive dashboard that highlights global case trends, mortality rates, and infection patterns.
 
+## Dashboard preview
+<img width="932" height="695" alt="Screenshot 2026-03-16 203934" src="https://github.com/user-attachments/assets/159cc493-4a7e-4ec0-b6aa-f28b1f92046e" />
+
+
 ## Repository Contents
 1. COVID 19 Sql query.sql-  SQL queries used for data exploration 
 2. Covid 19 Tableau.twbx-  Tableau dashboard file  
